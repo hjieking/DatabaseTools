@@ -3,3 +3,6 @@ E:\SummaryTechnicalPoints\DatabaseTools\HJie.Framework.Module\HJie.Dapper\bin\De
 E:\SummaryTechnicalPoints\DatabaseTools\HJie.Framework.Module\HJie.Dapper\obj\Debug\netcoreapp3.1\HJie.Dapper.csprojAssemblyReference.cache
 E:\SummaryTechnicalPoints\DatabaseTools\HJie.Framework.Module\HJie.Dapper\obj\Debug\netcoreapp3.1\HJie.Dapper.AssemblyInfoInputs.cache
 E:\SummaryTechnicalPoints\DatabaseTools\HJie.Framework.Module\HJie.Dapper\obj\Debug\netcoreapp3.1\HJie.Dapper.AssemblyInfo.cs
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Framework.Module\HJie.Dapper\bin\Debug\netcoreapp3.1\HJie.Dapper.pdb
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Framework.Module\HJie.Dapper\obj\Debug\netcoreapp3.1\HJie.Dapper.dll
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Framework.Module\HJie.Dapper\obj\Debug\netcoreapp3.1\HJie.Dapper.pdb

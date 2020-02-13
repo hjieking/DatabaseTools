@@ -15,3 +15,11 @@ E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\obj\Debu
 E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\obj\Debug\netcoreapp3.1\HJie.WpfApp.AssemblyInfo.cs
 E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\obj\Debug\netcoreapp3.1\HJie.WpfApp.dll
 E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\obj\Debug\netcoreapp3.1\HJie.WpfApp.pdb
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\obj\Debug\netcoreapp3.1\HJie.WpfApp.csproj.CopyComplete
