@@ -1,0 +1,17 @@
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\bin\Debug\netcoreapp3.1\HJie.WpfApp.exe
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\bin\Debug\netcoreapp3.1\HJie.WpfApp.deps.json
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\bin\Debug\netcoreapp3.1\HJie.WpfApp.runtimeconfig.json
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\bin\Debug\netcoreapp3.1\HJie.WpfApp.runtimeconfig.dev.json
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\bin\Debug\netcoreapp3.1\HJie.WpfApp.dll
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\bin\Debug\netcoreapp3.1\HJie.WpfApp.pdb
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\obj\Debug\netcoreapp3.1\HJie.WpfApp.csprojAssemblyReference.cache
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\obj\Debug\netcoreapp3.1\App.g.cs
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\obj\Debug\netcoreapp3.1\HJie.WpfApp_MarkupCompile.cache
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\obj\Debug\netcoreapp3.1\HJie.WpfApp_MarkupCompile.lref
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\obj\Debug\netcoreapp3.1\HJie.WpfApp.g.resources
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\obj\Debug\netcoreapp3.1\HJie.WpfApp.AssemblyInfoInputs.cache
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\obj\Debug\netcoreapp3.1\HJie.WpfApp.AssemblyInfo.cs
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\obj\Debug\netcoreapp3.1\HJie.WpfApp.dll
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Application.UI\HJie.WpfApp\obj\Debug\netcoreapp3.1\HJie.WpfApp.pdb

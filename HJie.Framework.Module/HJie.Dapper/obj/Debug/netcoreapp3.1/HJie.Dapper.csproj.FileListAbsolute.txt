@@ -1,0 +1,5 @@
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Framework.Module\HJie.Dapper\bin\Debug\netcoreapp3.1\HJie.Dapper.deps.json
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Framework.Module\HJie.Dapper\bin\Debug\netcoreapp3.1\HJie.Dapper.dll
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Framework.Module\HJie.Dapper\obj\Debug\netcoreapp3.1\HJie.Dapper.csprojAssemblyReference.cache
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Framework.Module\HJie.Dapper\obj\Debug\netcoreapp3.1\HJie.Dapper.AssemblyInfoInputs.cache
+E:\SummaryTechnicalPoints\DatabaseTools\HJie.Framework.Module\HJie.Dapper\obj\Debug\netcoreapp3.1\HJie.Dapper.AssemblyInfo.cs

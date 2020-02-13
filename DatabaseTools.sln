@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 框架基础类库", "01 框架基础类库", "{F6C145F6-A06C-43E5-B62F-FB25F134C2B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 ApplicationModule 应用模块", "02 ApplicationModule 应用模块", "{55F6667D-3B51-4624-850B-EAE86701DEAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 Application 应用界面", "03 Application 应用界面", "{18B2E6EC-39BE-485A-BF4C-28685B34471F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HJie.Dapper", "HJie.Framework.Module\HJie.Dapper\HJie.Dapper.csproj", "{223E7383-28C7-4480-AB7E-8179053D506E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HJie.Test", "HJie.Application.UI\HJie.Test\HJie.Test.csproj", "{28D3E7B2-EC81-4160-8B17-E6EEEB93C496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HJie.WpfApp", "HJie.Application.UI\HJie.WpfApp\HJie.WpfApp.csproj", "{1105EAF0-A187-4E6C-AD43-BE676336254C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{223E7383-28C7-4480-AB7E-8179053D506E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223E7383-28C7-4480-AB7E-8179053D506E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223E7383-28C7-4480-AB7E-8179053D506E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223E7383-28C7-4480-AB7E-8179053D506E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28D3E7B2-EC81-4160-8B17-E6EEEB93C496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D3E7B2-EC81-4160-8B17-E6EEEB93C496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D3E7B2-EC81-4160-8B17-E6EEEB93C496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D3E7B2-EC81-4160-8B17-E6EEEB93C496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1105EAF0-A187-4E6C-AD43-BE676336254C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1105EAF0-A187-4E6C-AD43-BE676336254C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1105EAF0-A187-4E6C-AD43-BE676336254C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1105EAF0-A187-4E6C-AD43-BE676336254C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{223E7383-28C7-4480-AB7E-8179053D506E} = {F6C145F6-A06C-43E5-B62F-FB25F134C2B4}
+		{28D3E7B2-EC81-4160-8B17-E6EEEB93C496} = {18B2E6EC-39BE-485A-BF4C-28685B34471F}
+		{1105EAF0-A187-4E6C-AD43-BE676336254C} = {18B2E6EC-39BE-485A-BF4C-28685B34471F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6995CF7D-B72F-4729-BBC9-301542D10328}
+	EndGlobalSection
+EndGlobal
